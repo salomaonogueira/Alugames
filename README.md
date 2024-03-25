@@ -1,2 +1,2 @@
 # Alugames
-Projeto de Lógica de programação realizado na Alura 
+Projeto para treinamento de lógica de programação com objetvo de informar se um game esta disponível para alugar ou devolver.
